@@ -1,0 +1,4 @@
+{
+  "sourceDatabaseUrl": "postgresql://avallete:<password>@ep-morning-firefly-148824.eu-central-1.aws.neon.tech:5432/default?sslmode=require",
+  "targetDatabaseUrl": "postgresql://avallete:<password>@ep-morning-firefly-148824.eu-central-1.aws.neon.tech:5432/default?sslmode=require"
+}
